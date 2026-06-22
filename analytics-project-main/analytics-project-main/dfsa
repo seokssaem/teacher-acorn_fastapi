@@ -1,0 +1,21 @@
+* [33m766ee8d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m 10장 재구성 완료
+* [33m9640e97[m 2부 종료 10장 추가
+* [33mdf96a3d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m 10장 추가
+* [33m64905ea[m Delete airflow/chapter10
+* [33mce53c89[m Create chapter10
+* [33mc7c82c1[m 2부 종료
+* [33mda24c45[m[33m ([m[1;31morigin/learning-branch[m[33m, [m[1;32mlearning-branch[m[33m)[m 11장 완료
+* [33m0ee4c26[m 9장 완료
+*   [33m467492b[m Merge pull request #1 from handsonapibook/book-formatting-updates
+[32m|[m[33m\[m  
+[32m|[m * [33mdde81a7[m Remove base URL
+[32m|[m * [33m91222a6[m Book formatting QC1 and QC2
+[32m|[m * [33m6c3e8e8[m Formatting change
+[32m|[m * [33mcc9c973[m QC1 and QC2 formatting
+[32m|[m * [33m9b9c69b[m QC1 and QC2 formatting
+[32m|[m[32m/[m  
+* [33m81507bd[m Update shared_functions.py
+* [33m0e5b9bd[m Create shared_functions.py
+* [33mc72a68d[m Update shark_league_notebook.ipynb
+* [33mbad60f6[m Update shark_league_notebook.ipynb
+* [33m66ca22a[m Initial commit

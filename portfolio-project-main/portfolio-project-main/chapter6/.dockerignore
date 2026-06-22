@@ -1,0 +1,9 @@
+# 6장용.dockerignore
+
+.gitignore
+
+README.md
+
+*.DS_Store/
+
+**/__pycache__

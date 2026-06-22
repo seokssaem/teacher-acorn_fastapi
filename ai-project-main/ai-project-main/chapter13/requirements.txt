@@ -1,0 +1,11 @@
+# 모델 학습
+skl2onnx
+onnxruntime
+scikit-learn
+numpy
+pandas
+
+# 모델 서빙
+pydantic>=2.4.0
+fastapi[standard]>=0.115.0
+uvicorn>=0.23.0
